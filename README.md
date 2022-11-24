@@ -1,6 +1,7 @@
 ### 👋 Olá, meu nome é Kácio Silva!
 
-Sou aluno no [IFPE Paulista]
+Sou estudante de ADS no [IFPE campus paulista] (https://portal.ifpe.edu.br/campus/paulista)
+
 **KacioSilva/KacioSilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
