@@ -1,6 +1,7 @@
 ### 👋 Olá, meu nome é Kácio Silva!
 
-Sou estudante de ADS no [IFPE campus paulista] (https://portal.ifpe.edu.br/campus/paulista)
+Sou estudante de ADS no [IFPE campus paulista](https://portal.ifpe.edu.br/campus/paulista)
+
 Atualmente estou desenvolvendo projetos em Java.
 Caso queira me contatar, envie um e-mail para ksps@discente.ifpe.edu.br
 
