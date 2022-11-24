@@ -1,6 +1,9 @@
 ### 👋 Olá, meu nome é Kácio Silva!
 
 Sou estudante de ADS no [IFPE campus paulista] (https://portal.ifpe.edu.br/campus/paulista)
+Atualmente estou desenvolvendo projetos em Java.
+Caso queira me contatar, envie um e-mail para ksps@discente.ifpe.edu.br
+
 
 **KacioSilva/KacioSilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
