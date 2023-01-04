@@ -4,7 +4,6 @@
 
 🔨 Atualmente estou desenvolvendo projetos em Java.
 
-📧 Caso queira me contatar, envie um e-mail para ksps@discente.ifpe.edu.br
 <div align="center">
   <a href="https://github.com/Eduardo-J-S">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KacioSilva&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
