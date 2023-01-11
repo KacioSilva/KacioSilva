@@ -8,6 +8,7 @@
   <a href="https://github.com/Eduardo-J-S">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KacioSilva&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KacioSilva&layout=compact&langs_count=7&theme=dark"/>
+  <td valign="top"><img height="200" src="https://github-readme-streak-stats.herokuapp.com?user=KacioSilva&theme=onedark_duo&border_radius=7.5"/></td>
 <div>
   
 <div style="display: inline_block"><br> 
