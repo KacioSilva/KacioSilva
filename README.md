@@ -1,6 +1,6 @@
 ### 👋 Olá, meu nome é Kácio Silva!
 
-💻 Estudante de Análise e Desenvolvimento de Sistemas no [IFPE campus paulista](https://portal.ifpe.edu.br/campus/paulista)
+💻 Estudante de Análise e Desenvolvimento de Sistemas no [IFPE campus paulista](https://portal.ifpe.edu.br/paulista/)
 
 🔨 Atualmente estou desenvolvendo projetos em Java.
 
